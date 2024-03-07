@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5d9fb4b-304e-4ede-a2cb-1393b0474be8" name="Changes" comment="For submission">
+      <change beforePath="$PROJECT_DIR$/../Capstone_II_Loan_Default_Prediction/Capstone-II---Loan-Default-Prediction/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Capstone_II_Loan_Default_Prediction/Capstone-II---Loan-Default-Prediction/Modelling.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Capstone_II_Loan_Default_Prediction/Capstone-II---Loan-Default-Prediction/loan_prediction_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Capstone_II_Loan_Default_Prediction/Capstone-II---Loan-Default-Prediction/loan_prediction_preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RandomForest Covid Case Study_06302020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RandomForest Covid Case Study_06302020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
