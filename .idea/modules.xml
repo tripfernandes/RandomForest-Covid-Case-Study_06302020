@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../GridSearchKNN_Case_Study/.idea/GridSearchKNN_Case_Study.iml" filepath="$PROJECT_DIR$/../GridSearchKNN_Case_Study/.idea/GridSearchKNN_Case_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Capstone_II_Loan_Default_Prediction/.idea/Capstone_II_Loan_Default_Prediction.iml" filepath="$PROJECT_DIR$/../Capstone_II_Loan_Default_Prediction/.idea/Capstone_II_Loan_Default_Prediction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RandomForest Covid Case Study_06302020.iml" filepath="$PROJECT_DIR$/.idea/RandomForest Covid Case Study_06302020.iml" />
     </modules>
   </component>

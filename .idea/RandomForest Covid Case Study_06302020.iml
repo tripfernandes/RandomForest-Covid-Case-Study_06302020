@@ -3,6 +3,6 @@
   <component name="NewModuleRootManager">
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="GridSearchKNN_Case_Study" />
+    <orderEntry type="module" module-name="Capstone_II_Loan_Default_Prediction" />
   </component>
 </module>
